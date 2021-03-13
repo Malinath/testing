@@ -1,3 +1,5 @@
-class A{}[D
+class A{
 
-[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+	public void static main(String[] args){
+		System.out.println("hi bhi");
+	}
