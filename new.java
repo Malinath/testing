@@ -5,7 +5,8 @@ class A{
 
 		A a=new A();
 		a.print();
-		System.out.println("hi bhi");
+		System.out.println("hi hello");
+		
 	}
 
   public void print(){
